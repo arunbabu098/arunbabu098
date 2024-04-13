@@ -2,7 +2,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b> SQL-Driven EDA: Walmart Sales Analysis </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Walmart Sales Analysis]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/arunbabu098/Walmart_SQL_EDA/tree/main))
 - <b> Python-Driven Predictive Analysis & Visualization </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b> Excel Coffee Sales Dashboard </b>
