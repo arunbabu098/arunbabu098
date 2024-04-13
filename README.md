@@ -3,12 +3,12 @@
 
 - <b> SQL-Driven EDA: Walmart Sales Analysis </b>
   - [Walmart Sales Analysis](https://github.com/arunbabu098/Walmart_SQL_EDA/tree/main)
-- <b> Python-Driven Predictive Analysis & Visualization </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b> Python-Driven CarMax Sales Analysis & Visualization </b>
+  - [CarMax Predictive Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b> Excel Coffee Sales Dashboard </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Excel Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b> MBA Research: Wearable Tech Impact on Manufacturing </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Wearable Tech Impact](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 <h2>⚡ Data Analytics Tools</h2>
 
