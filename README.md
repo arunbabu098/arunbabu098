@@ -4,7 +4,7 @@
 - <b> SQL-Driven EDA: Walmart Sales Analysis </b>
   - [Walmart Sales Analysis](https://github.com/arunbabu098/Walmart_SQL_EDA/tree/main)
 - <b> Python-Driven CarMax Sales Analysis & Visualization </b>
-  - [CarMax Predictive Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [CarMax Predictive Analysis](https://github.com/arunbabu098/Carmax_Analysis)
 - <b> Excel Coffee Sales Dashboard </b>
   - [Excel Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b> MBA Research: Wearable Tech Impact on Manufacturing </b>
