@@ -23,8 +23,8 @@
 <h2>📺 Certifications </h2>
 
 - [SQL](https://i.imgur.com/orvfQZS.jpeg)
-- [Advanced Excel]([https://i.imgur.com/ocngZrl.jpeg))
-- [AWS Cloud Foundations]([https://www.youtube.com/watch?v=N-L9hklSlNk](https://i.imgur.com/ocngZrl.jpeg))
+- [Advanced Excel](https://i.imgur.com/ocngZrl.jpeg)
+- [AWS Cloud Foundations](https://www.youtube.com/watch?v=N-L9hklSlNk](https://i.imgur.com/ocngZrl.jpeg)
 - [Lean Six Sigma: Green Belt](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 <h2> 🤳 Connect with me:</h2>
