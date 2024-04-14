@@ -8,7 +8,7 @@
 - <b> Excel Coffee Sales Dashboard </b>
   - [Excel Dashboard](https://github.com/arunbabu098/Coffee_ExcelDashboard) 
 - <b> MBA Research: Wearable Tech Impact on Manufacturing </b>
-  - [Wearable Tech Impact](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Wearable Tech Impact](https://github.com/arunbabu098/Research_WearableTech) 
 
 <h2>⚡ Data Analytics Tools</h2>
 
