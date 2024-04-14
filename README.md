@@ -8,7 +8,9 @@
 - <b> Excel Coffee Sales Dashboard </b>
   - [Excel Dashboard](https://github.com/arunbabu098/Coffee_ExcelDashboard) 
 - <b> Research: Impact of Wearable Tech on Manufacturing </b>
-  - [Wearable Tech Impact](https://github.com/arunbabu098/Research_WearableTech) 
+  - [Wearable Tech Impact](https://github.com/arunbabu098/Research_WearableTech)
+- <b> Internship: Optmizing Productivity in Apollo Tyres’ HP2 Tyre Machine Through Defect Reduction </b>
+  - [Wearable Tech Impact](https://github.com/arunbabu098/Research_WearableTech)  
 
 <h2>⚡ Data Analytics Tools</h2>
 
