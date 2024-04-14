@@ -6,7 +6,7 @@
 - <b> Python-Driven CarMax Sales Analysis & Visualization </b>
   - [CarMax Predictive Analysis](https://github.com/arunbabu098/Carmax_Analysis)
 - <b> Excel Coffee Sales Dashboard </b>
-  - [Excel Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Excel Dashboard](https://github.com/arunbabu098/Coffee_ExcelDashboard) 
 - <b> MBA Research: Wearable Tech Impact on Manufacturing </b>
   - [Wearable Tech Impact](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
