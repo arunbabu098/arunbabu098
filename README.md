@@ -7,9 +7,9 @@
   - [CarMax Predictive Analysis](https://github.com/arunbabu098/Carmax_Analysis)
 - <b> Excel Coffee Sales Dashboard </b>
   - [Excel Dashboard](https://github.com/arunbabu098/Coffee_ExcelDashboard) 
-- <b> Research: Impact of Wearable Tech on Manufacturing </b>
+- <b> Data Driven Research: Impact of Wearable Tech on Manufacturing </b>
   - [Wearable Tech Impact](https://github.com/arunbabu098/Research_WearableTech)
-- <b> Internship: Optmizing Productivity in Apollo Tyres’ HP2 Tyre Machine Through Defect Reduction </b>
+- <b> Data Driven Internship: Optmizing Productivity in Apollo Tyres’ HP2 Tyre Machine Through Defect Reduction </b>
   - [Optmizing Productivity in Apollo Tyres](https://github.com/arunbabu098/Internship_ApolloTyres/blob/main/README.md)  
 
 <h2>⚡ Data Analytics Tools</h2>
