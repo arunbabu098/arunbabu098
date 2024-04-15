@@ -25,7 +25,7 @@
 - [SQL](https://i.imgur.com/orvfQZS.jpeg)
 - [Advanced Excel](https://i.imgur.com/ocngZrl.jpeg)
 - [AWS Cloud Foundations](https://i.imgur.com/ocngZrl.jpeg)
-- [Lean Six Sigma: Green Belt](https://t3.ftcdn.net/jpg/02/33/17/50/360_F_233175040_hwqRyiZlQkXimeLz2AIZhajyfiU9El1m.jpg)
+- [Lean Six Sigma: Green Belt](https://i.imgur.com/TUhQiT4.jpeg)
 
 <h2> 🤳 Connect with me:</h2>
 
